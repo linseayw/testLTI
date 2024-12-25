@@ -5,7 +5,7 @@ Writter: Lintang Yoga Wistara
 Date: December 18, 2024  
 
 This application is a video to image converter application. This simple application aims to ensure that everyone understands and understands how to install and use this application.
-
+w
 ## How to installation with Visual Studio Code in WINDOWS and UBUNTU
 
 - Download and install VS Code.
