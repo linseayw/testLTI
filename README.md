@@ -1,5 +1,4 @@
 ### Lintang Yoga Wistara
-GitHub 
-fdva
-ahf  
-ccmv  
+MY INTERNSHIP PROJECT  
+[Video to Image Converter]()  
+[Color image to black and white image converter]()  
